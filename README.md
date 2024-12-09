@@ -69,11 +69,15 @@ The data used in this project was derived from hypothetical sales records of a s
 - **52% Male** and **48% Female** customers contributed to the sales, showcasing a balanced customer base.
 
 **3. Country by Revenue**
-- The **United States** was the highest revenue-generating country with **$59,592,612**, followed by **Australia** with **$32,385,810**.
-- Other countries like Canada, France, and Germany showed moderate revenue contributions.
+- **Australia** was the highest revenue-generating country with **$32,345,803**, followed by **United States** with **$30,599,622** and 
+- **Canada** showed the least revenue contributions.
+  
+However, **Bikes** generated the most revenue and profit in **Australia** with over **27 million** in revenue and over **10 million** as profit followed by the United States with over **21 million** as revenue and over **8 million** as profit and Canada generated the least revenue and profit in bikes.
 
-- 
+While **Accessories** generated the most revenue in the **United states** with over **5 million** in revenue and over **3 million** in profit followed by **Australia** with over 3 million in revenue and 2 million in profit and France generating the least revenue and profit in accessories.
 
+  And **Clothing** genertaed the highest revenue in **United states** of over **3 million** and a profit of over **1.4 million** followed by Australia with a revenue 1.9 million and a profit of over 700,000 and Germany generated the least revenue and profit in clothing.
+  
 **4. Top 5 Products by Revenue**
 1. Road-650 Red, Size 58: $7,180,110
 2. Road-150 Red, Size 62: $4,239,930
