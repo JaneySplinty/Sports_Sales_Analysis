@@ -55,8 +55,15 @@ The data used in this project was derived from hypothetical sales records of a s
 - **Total Orders**: 112,035
 
 **1. Subcategory Insights**
-- **Tires and Tubes** was the highest-performing subcategory with **505,852** units sold.
-- **Helmets** and **Bottles and Cages** also showed significant sales volumes, with **181,708** and **238,610** units sold, respectively.
+#### a. Accessories
+- **Tires and Tubes** was the highest-performing subcategory under accessories with **505,852** units sold.
+-  **Bottles and Cages** and **Helmets** also showed significant sales volumes with **238,610** and **181,708** units respectively, and **Bike stands** having the least orders with **2,403** units sold.
+
+#### b. Bikes
+- **Road bikes** were the most ordered subcategory of bikes across all countries with a total of **28,610** units and **bike racks** the least with only **27** units sold.
+
+  #### c. Clothing
+  - **Jerseys** were the most ordered subcategory of clothings across all countries with a total of **87,924** units sold and **Helmets** the least ordered with **78** units sold. 
 
 **2. Customer Demographics**
 - **52% Male** and **48% Female** customers contributed to the sales, showcasing a balanced customer base.
@@ -64,6 +71,8 @@ The data used in this project was derived from hypothetical sales records of a s
 **3. Country by Revenue**
 - The **United States** was the highest revenue-generating country with **$59,592,612**, followed by **Australia** with **$32,385,810**.
 - Other countries like Canada, France, and Germany showed moderate revenue contributions.
+
+- 
 
 **4. Top 5 Products by Revenue**
 1. Road-650 Red, Size 58: $7,180,110
